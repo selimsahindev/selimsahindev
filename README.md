@@ -1,6 +1,6 @@
 <!--<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=selimsahindev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=2234AE&fire=D3D3D3&currStreakLabel=D3D3D3&sideNums=7A7ADB" alt="Github Streak" />-->
 
-<img align="right" src="https://leetcard.jacoblin.cool/selimsahin?theme=dark&font=Ubuntu&ext=heatmap&border=0&radius=4&hide=ranking&animation=false" alt="LeetCode Stats" /> 
+<img align="right" src="https://leetcard.jacoblin.cool/selimsahin?theme=nord&font=Ubuntu&ext=heatmap&border=0&radius=4&hide=ranking&animation=false" alt="LeetCode Stats" /> 
 
 ## Hi, I'm Selim Sahin.
 
