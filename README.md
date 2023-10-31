@@ -1,10 +1,19 @@
 <!--<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=selimsahindev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=2234AE&fire=D3D3D3&currStreakLabel=D3D3D3&sideNums=7A7ADB" alt="Github Streak" />-->
 
-<a href="https://leetcode.com/selimsahin/">
+<!--<a href="https://leetcode.com/selimsahin/">
   <img align="right" src="https://leetcard.jacoblin.cool/selimsahin?theme=nord&font=Ubuntu&ext=heatmap&border=0&radius=4&hide=ranking&animation=false" alt="LeetCode Stats" /> 
-</a>
+</a>-->
 
 ## Hi, I'm Selim Sahin.
+
+I am a senior computer engineering student with three years of experience in game development and web development.
+
+These are the technologies I am familiar with:
+
+▫️ Node.js ▫️ Express ▫️ TypeScript ▫️ Laravel ▫️ Docker ▫️ Git
+AWS ▫️ Relational DBs ▫️ MongoDB ▫️ WebSocket ▫️ RestAPIs
+
+▫️ Unity ▫️ C#
 
 <br />
 
