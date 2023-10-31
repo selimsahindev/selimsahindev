@@ -10,8 +10,7 @@ I am a senior computer engineering student with three years of experience in gam
 
 These are the technologies I am familiar with:
 
-▫️ Node.js ▫️ Express ▫️ TypeScript ▫️ Laravel ▫️ Docker ▫️ Git
-AWS ▫️ Relational DBs ▫️ MongoDB ▫️ WebSocket ▫️ RestAPIs
+▫️ Node.js ▫️ Express ▫️ TypeScript ▫️ Laravel ▫️ Docker ▫️ Git ▫️ AWS ▫️ Relational DBs ▫️ MongoDB ▫️ WebSocket ▫️ Rest APIs
 
 ▫️ Unity ▫️ C#
 
