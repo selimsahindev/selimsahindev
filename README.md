@@ -4,7 +4,7 @@
   <img align="right" src="https://leetcard.jacoblin.cool/selimsahin?theme=nord&font=Ubuntu&ext=heatmap&border=0&radius=4&hide=ranking&animation=false" alt="LeetCode Stats" /> 
 </a>-->
 
-## Hi, I'm Selim Sahin.
+## Hi, I'm Selim Sahin!
 
 I am a senior computer engineering student with three years of experience in game development and web development.
 
