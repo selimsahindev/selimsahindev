@@ -14,9 +14,8 @@ In addition to my proficiency in backend development, I have a fondness for cont
 As a hobby, I delve into the exciting world of game development. It's not just about code for me; it's about creating immersive and enjoyable experiences.
 
 Let's code something extraordinary together! 🌐✨
-
-**Reach me on** [**LinkedIn**](https://www.linkedin.com/in/selim-sahin/)
+Reach me on [LinkedIn](https://www.linkedin.com/in/selim-sahin/)
 
 <br />
 
-<p><img src="https://komarev.com/ghpvc/?username=selimsahindev&label=Profile%20views&color=0e75b6&style=flat" alt="selimsahindev" /></p>
+<p><img align="right" src="https://komarev.com/ghpvc/?username=selimsahindev&label=Profile%20views&color=0e75b6&style=flat" alt="selimsahindev" /></p>
