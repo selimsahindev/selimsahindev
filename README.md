@@ -7,7 +7,7 @@ Hello there! 👋
 
 I'm passionate about web architectures, and I'm currently striving to showcase my strengths as a backend developer.
 
-My go-to technologies for projects include **`.Net Core`**, **`Laravel`**, and **`Node.js`**.
+My go-to technologies for projects include **`.Net`**, **`Laravel`**, and **`Node.js`**.
 
 In addition to my proficiency in backend development, I have a fondness for containerization technologies. I've embraced the power of **`Docker`** and **`Kubernetes`** to streamline deployment processes. Exploring the cloud, I also dabble in **`AWS`** to enhance my skill set.
 
