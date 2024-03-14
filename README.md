@@ -5,7 +5,7 @@
 About me
 ---
 
-Passionate about web architectures, I'm currently focused on showcasing my strengths as a backend developer, with a primary emphasis on **`Spring Boot`**.
+Passionate about web architectures, I'm currently focused on showcasing my strengths as a backend developer, with a primary emphasis on **`Java Spring Boot`**.
 
 Additionally, I have a fondness for containerization technologies. I've embraced the power of **`Docker`** & **`Kubernetes`** to streamline deployment processes. I also explore **`AWS`** to deepen my cloud expertise.
 
