@@ -1,17 +1,11 @@
-<!--<a href="https://leetcode.com/selimsahin/">
-  <img align="right" src="https://leetcard.jacoblin.cool/selimsahin?theme=nord&font=Ubuntu&ext=heatmap&border=0&radius=4&hide=ranking&animation=false" alt="LeetCode Stats" /> 
-</a>-->
-
 About me
 ---
 
-Passionate about web architectures, I'm currently focused on showcasing my strengths as a backend developer, with a primary emphasis on **`Java Spring Boot`**.
+With a strong interest in enterprise software architectures, I'm constantly working to build expertise in backend development, focusing on **`Java Spring Boot`**.
 
-Additionally, I have a fondness for containerization technologies. I've embraced the power of **`Docker`** & **`Kubernetes`** to streamline deployment processes. I also explore **`AWS`** to deepen my cloud expertise.
+Game development is also my creative outlet. Check out [**my games**](https://github.com/selimsahindev/portfolio).
 
-And let's not forget about game development – it's my secret ingredient for spicing up my skill set! **[My Games](https://github.com/selimsahindev/portfolio)**
-
-Let's collaborate to craft new things! 🌐✨ Reach me on **[LinkedIn](https://www.linkedin.com/in/selim-sahin/)**
+Reach out on [**LinkedIn**](https://www.linkedin.com/in/selim-sahin/) to collaborate on exciting projects! 🌐
 
 <!--<p align="right">
   <a href="https://www.credly.com/badges/4de1a12a-476e-4c69-b17f-8665218d3239/linked_in_profile" title="AWS Cloud Essentials. Cool badge from AWS"><img src="image/badge/aws-cloud-essentials.png" width="72"></a>
