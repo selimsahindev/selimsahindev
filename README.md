@@ -1,11 +1,11 @@
-About me
+Overview
 ---
 
-With a strong interest in enterprise software architectures, I'm constantly working to build expertise in backend development, focusing on **`Java Spring Boot`**.
+**Backend Engineer** focused on maintainable, well-structured systems using **Java** & **Spring Boot**.
+<br>
 
-Game development is also my creative outlet. Check out [**my games**](https://github.com/selimsahindev/portfolio).
-
-Reach out on [**LinkedIn**](https://www.linkedin.com/in/selim-sahin/) to collaborate on exciting projects! 🌐
+Game dev as a side interest — see [**my games**](https://github.com/selimsahindev/portfolio).<br>
+Reach out on [**LinkedIn**](https://www.linkedin.com/in/selim-sahin/) 🌐
 
 <!--<p align="right">
   <a href="https://www.credly.com/badges/4de1a12a-476e-4c69-b17f-8665218d3239/linked_in_profile" title="AWS Cloud Essentials. Cool badge from AWS"><img src="image/badge/aws-cloud-essentials.png" width="72"></a>
