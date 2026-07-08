@@ -4,7 +4,7 @@ Overview
 **Backend Engineer** focused on maintainable, well-structured systems using **Java** & **Spring Boot**.
 <br>
 
-Game dev as a side interest — see [**my games**](https://github.com/selimsahindev/portfolio).<br>
+Game dev as a side interest • see [**my games**](https://github.com/selimsahindev/portfolio).<br>
 Reach out on [**LinkedIn**](https://www.linkedin.com/in/selim-sahin/) 🌐
 
 <!--<p align="right">
