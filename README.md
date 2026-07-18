@@ -1,4 +1,4 @@
-### About
+About
 ---
 
 Backend Engineer focused on well-structured systems using **Java** • **Spring Boot**.<br>
